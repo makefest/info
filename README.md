@@ -7,6 +7,11 @@
 
 - [Password management](keepass.md)
 
+## Accessing GitHub
+
+- [Create keepass entry for GitHub](./github-entry-in-keepass.md)
+- [Create GitHub account](./github-account.md)
+
 ## Misc
 
 - [Course scheduling](./scheduling.md)
