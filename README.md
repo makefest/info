@@ -9,4 +9,5 @@
 
 ## Misc
 
+- [Course scheduling](./scheduling.md)
 - [System info](./system-info.md)
