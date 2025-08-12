@@ -11,6 +11,6 @@ But it is much better to use the Teams app. If you don't have it yet, installing
 
 ## Signing in to Teams
 
-- when starting Teams for the first time, you have two options: 1️⃣ sign in with a Microsoft account and 2️⃣ join a call with a Meeting ID
+- when starting Teams for the first time, you have two options: 1️⃣ sign in with a Microsoft account and 2️⃣ join a call with a Meeting Link or Meeting ID
 - if you have a Microsoft account and if you know your e-mail and password, sign in to Teams
-- if you are unable to sign-in, you can still join a Teams meeting by entering the Meeting ID and passcode, or by clicking on the Meeting Link
+- if you are unable to sign-in, you can still join a Teams meeting by clicking on the Meeting Link or by entering the Meeting ID and passcode
