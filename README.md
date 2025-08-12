@@ -1,5 +1,6 @@
 # On MakeFest
 
+- [Course scheduling](./scheduling.md)
 - [Preparing first call](preparing-firstcall.md)
 - [First Teams call](firstcall.md)
 
@@ -14,5 +15,4 @@
 
 ## Misc
 
-- [Course scheduling](./scheduling.md)
 - [System info](./system-info.md)
