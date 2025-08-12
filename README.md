@@ -3,7 +3,7 @@
 - [Preparing first call](preparing-firstcall.md)
 - [First Teams call](firstcall.md)
 
-## Before access to GitHub
+## Before accessing GitHub
 
 - [Password management](keepass.md)
 
