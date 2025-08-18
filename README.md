@@ -16,3 +16,4 @@
 
 - [Course scheduling](./scheduling.md)
 - [System info](./system-info.md)
+- [Disabling windows account](https://)
