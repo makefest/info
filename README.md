@@ -1,9 +1,10 @@
 # On MakeFest
 
+- [Course scheduling](./scheduling.md)
 - [Preparing first call](preparing-firstcall.md)
 - [First Teams call](firstcall.md)
 
-## Before access to GitHub
+## Before accessing GitHub
 
 - [Password management](keepass.md)
 
@@ -14,6 +15,5 @@
 
 ## Misc
 
-- [Course scheduling](./scheduling.md)
 - [System info](./system-info.md)
 - [Disabling windows account](https://)
