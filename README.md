@@ -16,4 +16,4 @@
 ## Misc
 
 - [System info](./system-info.md)
-- [Disabling windows account](https://)
+- [Disabling windows account](./disabling-windows-account.md)
