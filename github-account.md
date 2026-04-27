@@ -6,4 +6,4 @@
 - 🔨 on the GitHub web site, click on `Sign up`
 - 🔨 follow the steps and when asked for an e-mail and password, press `Alt` + `tab` to switch to KeePassXC and copy them from your GitHub entry in KeePass, using the keyboard shortcuts
 - 🔨 when asked to create a user name, make sure to add the user name to the `Notes` field in your `GitHub` entry in KeePassXC
-- 🔨 go to the repo of your course and on the README page, take the "Guided tour of GitHub - Part 1"
+- 🔨 the coach will take you on the "Guided tour of GitHub - Part 1"
