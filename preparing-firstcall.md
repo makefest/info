@@ -2,7 +2,7 @@
 
 All you need for the first call is a browser. For example Edge, Chrome, Firefox, Opera etc. Very likely one of these browsers is installed.
 
-But there are advantages to using the Teams app. If you don't have it yet and want to try, installing it is very easy:
+But there are advantages to using the Teams app. If you don't have it yet and want to try, installing it is very easy. But if you prefer just using the browser at first, that's also fine and then you don't need to continue reading below.
 
 ## Installing Teams
 
