@@ -18,4 +18,5 @@
 - [System info](./system-info.md)
 - [Disabling windows account](./disabling-windows-account.md)
 - [Creating an outlook account](./create_outlook_account.md)
+- [Creating outlook accounts for kids](./create_outlook_account_for_kids.md)
 
