@@ -2,7 +2,8 @@
 
 - [Course scheduling](./scheduling.md)
 - [Preparing first call](preparing-firstcall.md)
-- [First Teams call](firstcall.md)
+- [First Teams call (via link)](firstcall.md)
+- [First Teams call (via Meeting ID)](join_teams_call_via_ID.md)
 
 ## Before accessing GitHub
 
