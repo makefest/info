@@ -1,5 +1,7 @@
 # Countries by subregion
 
+These are the 249 countries and territories defined by ISO 3166.
+
 ## Australia and New Zealand
 
 | ISO3 | Country | Population |
