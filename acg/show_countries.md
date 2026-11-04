@@ -2,9 +2,9 @@
 
 ## What the Page Shows
 
-- 🔨 open the [Contact Countries Page](https://makefe.st/en/xmas/showcountries?title=Contacts&tags=direct,indirect&tagsLabel=Contacts&noTagsLabel=none&direct=AE,AR,AT,AU,BE,BR,CA,CH,CZ,DE,DZ,EC,ES,FR,GB,HK,HU,IE,IL,IN,IT,JP,MT,MW,MX,MY,NL,NO,PK,PL,PT,SG,TH,UA,US,UZ&indirect=AE,AL,AM,AO,AQ,AR,AU,BE,BO,BQ,CA,CG,CN,CO,DE,DK,DZ,ES,FI,FR,GB,GE,GR,HK,HR,ID,IE,IN,IR,IT,JP,KR,KZ,LR,LU,MA,MC,MK,MV,MX,NL,NO,PA,PH,PL,PT,PY,RO,RS,RU,SA,SE,SG,TH,TR,TT,TZ,UA,US,VN,XK) in a new window
+- 🔨 open the [Contact Countries Page](https://makefe.st/en/xmas/showcountries?title=Contacts&tags=direct,indirect&tagsLabel=Contacts&noTagsLabel=none&direct=AE,AR,AT,AU,BE,BR,CA,CH,CZ,DE,DZ,EC,ES,FR,GB,HK,HU,IE,IL,IN,IS,IT,JP,MT,MW,MX,MY,NL,NO,PK,PL,PT,SG,TH,UA,US,UZ&indirect=AE,AL,AM,AO,AQ,AR,AU,BE,BO,BQ,CA,CG,CN,CO,DE,DK,DZ,ES,FI,FR,GB,GE,GR,HK,HR,ID,IE,IN,IR,IT,JP,KR,KZ,LR,LU,MA,MC,MK,MV,MX,NL,NO,PA,PH,PL,PT,PY,RO,RS,RU,SA,SE,SG,TH,TR,TT,TZ,UA,US,VN,XK) in a new window
 - 👁️ the page shows the 250 countries and territories worldwide
-- 👁️ currently, 73 of them have a `1` or `2` under the flag
+- 👁️ currently, 74 of them have a `1` or `2` under the flag
 - 🦉 for these, at least one MakeFest participant has reported having a contact to gift our game "Help Santa!" to, either a direct or indirect contact, or both
 
 ## How You Can Use and Change a Page
