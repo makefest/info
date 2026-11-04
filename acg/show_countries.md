@@ -38,7 +38,7 @@ The Country Contacts Page is pretty easy to use. But if you need help, you can f
 
 ## Your task: Collecting your Contact Countries
 
-- 🔨 open an empty [Contact Countries page](https://makefe.st/en/xmas/showcountries?title=Contacts&tags=direct,indirect&tagsLabel=Contacts&noTagsLabel=none) just for you
+- 🔨 if your kid has already filled in a Country Contacts page, please open the provided link; if not, open an empty [Contact Countries page](https://makefe.st/en/xmas/showcountries?title=Contacts&tags=direct,indirect&tagsLabel=Contacts&noTagsLabel=none) to start fresh
 - 🔨 click on the `Region` arrow pointing to the right to go to the first region
 - 🔨 go through all the territories in that region one by one and really think about whether you have a direct or indirect contact there; if yes, click on the flag and then click on the `direct` or `indirect` button, or both
 - 🔨 after checking all territories in the current region proceed to the next region
