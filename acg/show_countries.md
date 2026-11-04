@@ -27,7 +27,7 @@
   - the `copy` icon is for copying a text report of the page to the clipboard
   - the `share` icon is for copying a link to the clipboard that shows the current page again
 
-### Collecting your Contact Countries
+## Collecting your Contact Countries
 
 - 🔨 open an empty [Contact Countries page](https://makefe.st/en/xmas/showcountries?title=Contacts&tags=direct,indirect&tagsLabel=Contacts&noTagsLabel=none) just for you
 - 🔨 click on the `Region` arrow pointing to the right to go to the first region
