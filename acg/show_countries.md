@@ -1,13 +1,17 @@
 # Our Contact Countries Page
 
-## What the Page Shows
-
 - 🔨 open the [Contact Countries Page](https://makefe.st/en/xmas/showcountries?title=Contacts&tags=direct,indirect&tagsLabel=Contacts&noTagsLabel=none&direct=AE,AR,AT,AU,BE,BR,CA,CH,CZ,DE,DZ,EC,ES,FR,GB,HK,HU,IE,IL,IN,IS,IT,JP,MT,MW,MX,MY,NL,NO,PK,PL,PT,SG,TH,UA,US,UZ&indirect=AE,AL,AM,AO,AQ,AR,AU,BE,BO,BQ,CA,CG,CN,CO,DE,DK,DZ,ES,FI,FR,GB,GE,GR,HK,HR,ID,IE,IN,IR,IT,JP,KR,KZ,LR,LU,MA,MC,MK,MV,MX,NL,NO,PA,PH,PL,PT,PY,RO,RS,RU,SA,SE,SG,TH,TR,TT,TZ,UA,US,VN,XK) in a new window
 - 👁️ the page shows the 250 countries and territories worldwide
 - 👁️ currently, 74 of them have a `1` or `2` under the flag
 - 🦉 for these, at least one MakeFest participant has reported having a contact to gift our game "Help Santa!" to, either a direct or indirect contact, or both
 
-## How You Can Use and Change a Page
+
+## Quick guides
+
+The Country Contacts Page is pretty easy to use. But if you need help, you can follow these guides:
+
+<details>
+<summary>How You Can Use and Change the Page</summary>
 
 - 🦉Note that this page does not store any information on your computer or on a server. The information is only stored in the link.
 - 👁️ in the `Countries to show` panel at the top, on the right side of the `Region` dropdown menu, notice the arrow pointing to the right
@@ -21,13 +25,18 @@
 - 👁️ notice how the flags with a number now all show a 1, showing the countries where we only have direct contacts
 - 🔨 click on the "indirect" button again so that all contact info is shown
 
-## How You Can Share a Page
+</details>
+
+<details>
+<summary>How You Can Share a Page</summary>
 
 - 👁️ notice the two icons in the top-right corner of the "Countries to show" panel: 
   - the `copy` icon is for copying a text report of the page to the clipboard
   - the `share` icon is for copying a link to the clipboard that shows the current page again
 
-## Collecting your Contact Countries
+</details>
+
+## Your task: Collecting your Contact Countries
 
 - 🔨 open an empty [Contact Countries page](https://makefe.st/en/xmas/showcountries?title=Contacts&tags=direct,indirect&tagsLabel=Contacts&noTagsLabel=none) just for you
 - 🔨 click on the `Region` arrow pointing to the right to go to the first region
