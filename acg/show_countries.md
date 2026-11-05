@@ -40,7 +40,8 @@ The Country Contacts Page is pretty easy to use. But if you need help, you can f
 
 - 🔨 if your kid has already filled in a Country Contacts page, please open the provided link; if not, open an empty [Contact Countries page](https://makefe.st/en/xmas/showcountries?title=Contacts&tags=direct,indirect&tagsLabel=Contacts&noTagsLabel=none) to start fresh
 - 🔨 click on the `Region` arrow pointing to the right to go to the first region
-- 🔨 go through all the territories in that region one by one and really think about whether you have a direct or indirect contact there; if yes, click on the flag and then click on the `direct` or `indirect` button, or both
+- 🦉 the goal is to really think hard and get creative about finding contacts; for example, I am good friends with a researcher who knows people that do research stays in Antarctica, so I have an indirect contact to Antarctica; of course this is no guarantee, but it's our best shot at this
+- 🔨 with that in mind, go through all the territories in that region one by one and think whether you have a direct or indirect contact there; if yes, click on the flag and then click on the `direct` or `indirect` button, or both
 - 🔨 after checking all territories in the current region proceed to the next region
 - 🔨 when done with all the regions, click on the `copy` icon in the top right corner to copy the report
 - 🔨 share the copied text with me however you want, for example by pasting it into an e-mail
